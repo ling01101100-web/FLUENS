@@ -96,7 +96,7 @@ learn MySQL
 
 ### What I learned
 
-I learned about MySQL indexes (primary key, unique key, key) and concepts such as clustered indexes; I also learned about character sets, such as ASCII and utf8mb4; more precisely, Unicode is a character encoding standard, not a specific character set name in MySQL.
+I learned about MySQL indexes (primary key, unique key, key) and concepts such as clustered indexes; I also learned about character sets, such as ASCII and utf8mb4.
 
 ---
 
