@@ -96,7 +96,7 @@ learn MySQL
 
 ### What I learned
 
-I learned about MySQL indexes (primary key, unique key, key) and concepts such as clustered indexes; I also learned about character sets, such as ASCII and utf8mb4.
+I learned about MySQL indexes (primary key, unique key, key) and concepts such as clustered indexes; I also learned about character sets, such as ASCII and utf8mb4; more precisely, Unicode is a character encoding standard, not a specific character set name in MySQL.
 
 ---
 
@@ -180,9 +180,11 @@ CSS variable, Math.round(), setInterval(), clearInterval(), Date.now()
 
 ---
 
-## Day 9 — Date: \_\_\_\_
+## Day 9 — Date: 9/6/2026
 
 ### What I planned to do today
+
+Sound effects for the Pomodoro timer and to-do list, and restyle everything.
 
 ### What I actually did
 
