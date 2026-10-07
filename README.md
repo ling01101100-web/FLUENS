@@ -188,21 +188,35 @@ Sound effects for the Pomodoro timer and to-do list, and restyle everything.
 
 ### What I actually did
 
+Learn a bit about the Web Audio API.
+
 ### Blockers / Challenges
 
+I don't understand what methods it has or how to use them.
+
 ### What I learned
+
+nothing
 
 ---
 
-## Day 10 — Date: \_\_\_\_
+## Day 10 — Date: 7/9/2026
 
 ### What I planned to do today
 
+Sound effects
+
 ### What I actually did
+
+learn oudio object
 
 ### Blockers / Challenges
 
+Give up learning Web Audio API.
+
 ### What I learned
+
+How to use an audio object.
 
 ---
 
