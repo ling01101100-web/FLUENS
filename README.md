@@ -220,15 +220,21 @@ How to use an audio object.
 
 ---
 
-## Day 11 — Date: \_\_\_\_
+## Day 11 — Date: 8/9/2026
 
 ### What I planned to do today
 
+to-do list, pomodoro
+
 ### What I actually did
+
+Remove all previous styles.
 
 ### Blockers / Challenges
 
 ### What I learned
+
+script attributes(async, defer)
 
 ---
 
